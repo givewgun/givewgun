@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Gun%20Kaewngarm&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Cloud%20%26%20Software%20Architect%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Azure%20Expert&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gun%20Kaewngarm" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF2&center=true&vCenter=true&width=620&lines=%F0%9F%8E%AE+Gamer+%7C+%F0%9F%8F%97%EF%B8%8F+Software+Architect;%F0%9F%A7%99+Azure+Solutions+Architect+Expert;%F0%9F%8E%93+CMU+School+of+Computer+Science;%F0%9F%8C%8F+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD;%F0%9F%9A%80+Building+systems+that+scale+to+millions)](https://git.io/typing-svg)
 
@@ -191,7 +191,7 @@ Led full backend architecture redesign for Adrich's IoT Smart Label system — a
 <tr>
 <td align="center" width="50%">
 <a href="https://www.cmu.edu/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carnegie_Mellon_University_seal.svg/180px-Carnegie_Mellon_University_seal.svg.png" width="120" height="120" alt="Carnegie Mellon University"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Carnegie_Mellon_University_seal.svg" width="120" height="120" alt="Carnegie Mellon University"/>
 </a>
 <br/><br/>
 <b>Carnegie Mellon University</b><br/>
