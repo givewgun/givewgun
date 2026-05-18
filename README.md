@@ -42,6 +42,40 @@ class GunKaewngarm:
 
 ---
 
+## 🎓 HALL OF FAME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.cmu.edu/">
+<img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Carnegie_Mellon_University_seal.svg" width="120" height="120" alt="Carnegie Mellon University"/>
+</a>
+<br/><br/>
+<b>Carnegie Mellon University</b><br/>
+Master of Software Engineering<br/>
+<b>GPA: 4.11</b> &nbsp;·&nbsp; Class of 2024<br/>
+Pittsburgh, Pennsylvania 🇺🇸
+</td>
+<td align="center" width="50%">
+<a href="https://www.cs.cmu.edu/">
+<img src="https://www.cs.cmu.edu/~jhclark/logos/scslogo_no_outline.gif" width="120" height="120" alt="CMU School of Computer Science"/>
+</a>
+<br/><br/>
+<b>School of Computer Science</b><br/>
+<img src="https://img.shields.io/badge/SCS-C41230?style=flat-square&logoColor=white" alt="SCS"/>&nbsp;<img src="https://img.shields.io/badge/cs.cmu.edu-302b63?style=flat-square" alt="CMU CS"/>
+<br/><br/>
+🏅 <b>Bank of Thailand Scholar</b><br/>
+Fully funded · 2023–2024
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 👑 LEGENDARY QUEST
 
 <table>
@@ -178,40 +212,6 @@ Led full backend architecture redesign for Adrich's IoT Smart Label system — a
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=givewgun&theme=midnight-purple&border=00FFF2&ring=A78BFA&fire=FF6B6B&currStreakLabel=00FFF2)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 HALL OF FAME
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://www.cmu.edu/">
-<img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Carnegie_Mellon_University_seal.svg" width="120" height="120" alt="Carnegie Mellon University"/>
-</a>
-<br/><br/>
-<b>Carnegie Mellon University</b><br/>
-Master of Software Engineering<br/>
-<b>GPA: 4.11</b> &nbsp;·&nbsp; Class of 2024<br/>
-Pittsburgh, Pennsylvania 🇺🇸
-</td>
-<td align="center" width="50%">
-<a href="https://www.cs.cmu.edu/">
-<img src="https://www.cs.cmu.edu/~jhclark/logos/scslogo_no_outline.gif" width="120" height="120" alt="CMU School of Computer Science"/>
-</a>
-<br/><br/>
-<b>School of Computer Science</b><br/>
-<img src="https://img.shields.io/badge/SCS-C41230?style=flat-square&logoColor=white" alt="SCS"/>&nbsp;<img src="https://img.shields.io/badge/cs.cmu.edu-302b63?style=flat-square" alt="CMU CS"/>
-<br/><br/>
-🏅 <b>Bank of Thailand Scholar</b><br/>
-Fully funded · 2023–2024
-</td>
-</tr>
-</table>
 
 </div>
 
