@@ -181,11 +181,32 @@ Fully funded · 2023–2024
 | 🛍️ **Deals Page** | Scala, MS-SQL | Cross-department collab to build coupon & promotions hub on Agoda website — increased coupon-driven bookings |
 | 📬 **Comms Microservices Core** | Scala, Akka, Kafka, MS-SQL, Grafana | High-throughput backbone for all Agoda email/SMS/push — data-intensive, distributed, fully observable |
 
-### 🏫 Adrich LLC × Carnegie Mellon University
+### 👑 LEGENDARY QUEST — Adrich LLC × Carnegie Mellon University
 
-| 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
-|---|---|---|
-| 📡 **IoT Smart Label Platform** | Node.js, Python FastAPI, C (ECL), React, GitLab CI | Led full backend redesign scaling from **20K → 5M devices**. Implemented ECL compression in C on-device + decompression in Node.js — cut payload size **50%**. Built React calibration dashboard for device setup. |
+<div align="center">
+
+> ### 📡 IoT Smart Label Platform
+> **`C (ECL Compression)` · `Node.js` · `Python FastAPI` · `React` · `GitLab CI` · `Digital Ocean`**
+>
+> ---
+>
+> Led a full backend architecture redesign for Adrich's IoT Smart Label system —
+> a **full-stack challenge spanning firmware, distributed backend, and frontend**.
+>
+> | 📈 Metric | 🔢 Result |
+> |---|---|
+> | Device scale | **20,000 → 5,000,000** (250× growth) |
+> | Payload size reduction | **50%** via custom ECL compression |
+> | Transfer latency | **Significantly reduced** |
+> | Protocol | Custom data transfer protocol in **C on-device** + decompression in **Node.js** |
+>
+> - Designed and implemented **ECL compression in C** running directly on Smart Label hardware
+> - Built matching **decompression + caching layer in Node.js** backend to decode device transmissions
+> - Engineered **Python FastAPI** services to handle 5M-device scale data ingestion
+> - Built a **React calibration dashboard** to streamline device setup and field deployment
+> - Designed and shipped **CI/CD pipelines** via GitLab CI, deployed on Digital Ocean
+
+</div>
 
 ### 🎓 Personal & Academic
 
