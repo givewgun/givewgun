@@ -161,14 +161,34 @@ Fully funded · 2023–2024
 
 </div>
 
+### 🏛️ Bank of Thailand *(Current)*
+
 | 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
 |---|---|---|
-| 🏦 **IAM Platform (BOT)** | .NET 10, Azure AD B2C, SQL Server, Docker | Auth for 2M+ users across Bank of Thailand's digital services |
-| 📊 **Gunvest** | JavaScript, PostgreSQL | Personal investment portfolio tracker & analyzer |
-| 🚦 **Rama IV Traffic Dashboard** | Python, Plotly Dash, BigQuery, CNN | Real-time traffic monitoring + ML speed prediction for Bangkok |
-| 🤖 **FlappyAI** | Python, Neural Networks | Flappy Bird AI via genetic algorithm + neural evolution |
-| 📡 **IoT Smart Label Backend** | Node.js, Python FastAPI, ECL compression | Scaled from 20K → 5M devices; 50% payload reduction |
-| 💬 **Namo Chatbot** | Python, Dialogflow, GCP | Dhamma chatbot on LINE for mindfulness & mental wellness |
+| 🔐 **IAM Platform** | .NET 10, Azure AD B2C, SQL Server, Docker | Public identity service for 2M+ users — unified auth across all BOT digital services & internal apps |
+| 🤖 **AI Adoption Program** | GitHub Copilot, Azure OpenAI | Led org-wide AI-assisted dev tooling rollout; defined governance standards & usage guidelines across engineering teams |
+| 🐳 **Golden Container Images** | Docker, Azure Container Registry | Centralized & versioned base images enforcing security baselines — eliminated config drift across environments |
+
+### 🌏 Agoda *(3 years · Customer Communication & Growth)*
+
+| 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
+|---|---|---|
+| 🎯 **Campaign Engine** | Scala, Akka, Kafka, SQL, Hadoop | Designed & built platform to create, schedule, and blast targeted marketing campaigns to millions of bookers — directly drove revenue |
+| 📧 **HTML Template Engine** | Scala, Akka | Dynamic template builder for email, push notification & SMS — all campaign content rendered through here |
+| 🔁 **Retargeting Engine** | Scala, Spark, Hadoop | Spark pipeline to score web traffic and identify users to re-engage with reminder emails — measurable revenue uplift |
+| 📊 **Behavioral Data Pipeline** | Scala, Kafka, Hadoop, Hive | Customer behavior logging & tracking system; feeds ML models for campaign personalization across millions of users |
+| ☸️ **Containerization Initiative** | Docker, Helm, Kubernetes, Shell | Led full containerization of team services — cut developer test & deploy time significantly; team's first K8s rollout |
+| 🛍️ **Deals Page** | Scala, MS-SQL | Cross-department collab to build coupon & promotions hub on Agoda website — increased coupon-driven bookings |
+| 📬 **Comms Microservices Core** | Scala, Akka, Kafka, MS-SQL, Grafana | High-throughput backbone for all Agoda email/SMS/push — data-intensive, distributed, fully observable |
+
+### 🎓 Personal & Academic
+
+| 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
+|---|---|---|
+| 📊 **Gunvest** | JavaScript, PostgreSQL | Personal investment portfolio tracker & market analyzer |
+| 🚦 **Rama IV Traffic Dashboard** | Python, Plotly Dash, BigQuery, CNN | Real-time Bangkok traffic monitoring + CNN speed prediction (±10 km/h) |
+| 🤖 **FlappyAI** | Python, Neural Networks | Flappy Bird AI trained via genetic algorithm + neural evolution |
+| 💬 **Namo Chatbot** | Python, Dialogflow, GCP | LINE chatbot for mindfulness & Dhamma — built to assist users with depression |
 
 ---
 
