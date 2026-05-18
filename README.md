@@ -113,7 +113,7 @@ class GunKaewngarm:
 | 🥇 **Azure Solutions Architect Expert** | Microsoft Certified – highest Azure architecture cert |
 | ☸️ **Kubernetes Mastery** | Container orchestration at scale |
 | 🔄 **GitLab CI: DevOps** | CI/CD pipelines & automation |
-| 🎓 **CMU Master of Software Engineering** | GPA: 4.05 |
+| 🎓 **Carnegie Mellon University Master of Software Engineering** | GPA: 4.11 |
 | 🏛️ **Bank of Thailand Scholarship** | Full-ride award — selected from across Thailand |
 | 🇹🇭 **IAM @ Scale** | Built auth platform serving 2M+ users |
 
