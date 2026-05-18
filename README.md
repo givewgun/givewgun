@@ -181,6 +181,12 @@ Fully funded · 2023–2024
 | 🛍️ **Deals Page** | Scala, MS-SQL | Cross-department collab to build coupon & promotions hub on Agoda website — increased coupon-driven bookings |
 | 📬 **Comms Microservices Core** | Scala, Akka, Kafka, MS-SQL, Grafana | High-throughput backbone for all Agoda email/SMS/push — data-intensive, distributed, fully observable |
 
+### 🏫 Adrich LLC × Carnegie Mellon University
+
+| 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
+|---|---|---|
+| 📡 **IoT Smart Label Platform** | Node.js, Python FastAPI, C (ECL), React, GitLab CI | Led full backend redesign scaling from **20K → 5M devices**. Implemented ECL compression in C on-device + decompression in Node.js — cut payload size **50%**. Built React calibration dashboard for device setup. |
+
 ### 🎓 Personal & Academic
 
 | 🗺️ Quest | ⚔️ Tech Stack | 📜 Description |
