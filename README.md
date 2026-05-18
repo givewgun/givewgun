@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GUN%20KAEWNGARM&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=Cloud%20%26%20Software%20Architect%20%7C%20Backend%20Engineer%20%7C%20Azure%20Expert&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF2&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Gamer+%7C+%F0%9F%8F%97%EF%B8%8F+Software+Architect;%F0%9F%A7%99+Azure+Expert+%7C+%F0%9F%8C%8F+Bangkok%2C+Thailand;%F0%9F%8E%93+CMU+MSE+%7C+%F0%9F%A4%96+AI+Enthusiast;%F0%9F%9A%80+Building+systems+that+scale+to+millions)](https://git.io/typing-svg)
 
@@ -12,14 +13,12 @@
 ## ⚔️ CHARACTER STATS
 
 ```
-
-  🧙 CLASS     : Cloud & Software Architect                  
-  ⭐ LEVEL     : Senior (6+ years XP)                        
-  🏰 GUILD     : Bank of Thailand                            
-  🎓 ACADEMY   : Carnegie Mellon University (GPA: 4.11)      
-  📍 LOCATION  : Bangkok, Thailand 🇹🇭                        
-  🏆 LEGENDARY : Bank of Thailand Full-Ride Scholarship      
-
+  🧙 CLASS     : Cloud & Software Architect
+  ⭐ LEVEL     : Senior (6+ years XP)
+  🏰 GUILD     : Bank of Thailand
+  🎓 ACADEMY   : Carnegie Mellon University (GPA: 4.11)
+  📍 LOCATION  : Bangkok, Thailand 🇹🇭
+  🏆 LEGENDARY : Bank of Thailand Full-Ride Scholarship
 ```
 
 </div>
@@ -40,6 +39,40 @@ class GunKaewngarm:
 
 ---
 
+## 🎓 HALL OF FAME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="280">
+<a href="https://www.cmu.edu/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carnegie_Mellon_University_seal.svg/180px-Carnegie_Mellon_University_seal.svg.png" width="120" height="120" alt="Carnegie Mellon University"/>
+</a>
+<br/><br/>
+<b>Carnegie Mellon University</b><br/>
+Master of Software Engineering<br/>
+GPA: 4.11 &nbsp;·&nbsp; Class of 2024<br/>
+Pittsburgh, Pennsylvania 🇺🇸
+</td>
+<td align="center" width="280">
+<a href="https://www.cs.cmu.edu/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carnegie_Mellon_University_seal.svg/180px-Carnegie_Mellon_University_seal.svg.png" width="120" height="120" alt="CMU School of Computer Science"/>
+</a>
+<br/><br/>
+<b>School of Computer Science</b><br/>
+<img src="https://img.shields.io/badge/SCS-C41230?style=flat-square&logoColor=white" alt="SCS"/>&nbsp;<img src="https://img.shields.io/badge/cs.cmu.edu-302b63?style=flat-square" alt="CMU CS"/>
+<br/><br/>
+🏅 Bank of Thailand Scholar<br/>
+Fully funded · 2023–2024
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ SKILL TREE
 
 <div align="center">
@@ -50,7 +83,7 @@ class GunKaewngarm:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🏗️ Frameworks & Runtimes
@@ -87,8 +120,8 @@ class GunKaewngarm:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=givewgun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=00fff2&title_color=00fff2&icon_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=givewgun&layout=compact&langs_count=8&theme=midnight-purple&border_color=00fff2&title_color=00fff2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=givewgun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=00fff2&title_color=00fff2&icon_color=a78bfa&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=givewgun&layout=compact&langs_count=8&theme=midnight-purple&border_color=00fff2&title_color=00fff2&cache_seconds=1800"/>
 
 </div>
 
@@ -113,7 +146,7 @@ class GunKaewngarm:
 | 🥇 **Azure Solutions Architect Expert** | Microsoft Certified – highest Azure architecture cert |
 | ☸️ **Kubernetes Mastery** | Container orchestration at scale |
 | 🔄 **GitLab CI: DevOps** | CI/CD pipelines & automation |
-| 🎓 **Carnegie Mellon University Master of Software Engineering** | GPA: 4.11 |
+| 🎓 **Carnegie Mellon University MSE** | GPA: 4.11 · School of Computer Science |
 | 🏛️ **Bank of Thailand Scholarship** | Full-ride award — selected from across Thailand |
 | 🇹🇭 **IAM @ Scale** | Built auth platform serving 2M+ users |
 
