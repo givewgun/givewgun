@@ -134,6 +134,7 @@ Led full backend architecture redesign for Adrich's IoT Smart Label system — a
 
 | Quest | Tech Stack | Description |
 |---|---|---|
+| ⚔️ **[Legion](https://github.com/givewgun/legion)** &nbsp;`NEW` | JavaScript, Multi-Agent AI, LLMs | **Leaderless multi-agent stock-signal engine.** Independent expert agents each analyze a ticker, cast a structured vote, confront each other's dissent, and iterate until a deterministic consensus emerges. Live at [legion.givewgun.com](https://legion.givewgun.com) |
 | 📊 **Gunvest** | JavaScript, PostgreSQL | Personal investment portfolio tracker & market analyzer |
 | 🚦 **Rama IV Traffic Dashboard** | Python, Plotly Dash, BigQuery, CNN | Real-time Bangkok traffic monitoring + CNN speed prediction (±10 km/h) |
 | 🐦 **FlappyAI** | Python, Neural Networks | Flappy Bird AI trained via genetic algorithm + neural evolution |
@@ -144,10 +145,10 @@ Led full backend architecture redesign for Adrich's IoT Smart Label system — a
 
 <div align="center">
 
+[![legion](https://github-readme-stats.vercel.app/api/pin/?username=givewgun&repo=legion&theme=midnight-purple&border_color=00fff2&title_color=00fff2)](https://github.com/givewgun/legion)
 [![gunvest](https://github-readme-stats.vercel.app/api/pin/?username=givewgun&repo=gunvest-public&theme=midnight-purple&border_color=00fff2&title_color=00fff2)](https://github.com/givewgun/gunvest-public)
 [![elscione-dl](https://github-readme-stats.vercel.app/api/pin/?username=givewgun&repo=elscione-dl&theme=midnight-purple&border_color=00fff2&title_color=00fff2)](https://github.com/givewgun/elscione-dl)
 [![RamaIV-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=givewgun&repo=RamaIV-Dashboard&theme=midnight-purple&border_color=00fff2&title_color=00fff2)](https://github.com/givewgun/RamaIV-Dashboard)
-[![FlappyAI](https://github-readme-stats.vercel.app/api/pin/?username=givewgun&repo=FlappyAI&theme=midnight-purple&border_color=00fff2&title_color=00fff2)](https://github.com/givewgun/FlappyAI)
 
 </div>
 
